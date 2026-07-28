@@ -1,1 +1,6 @@
 hi today I am learning git 
+
+this file is commited to git 
+
+
+wegiwhgighihgi
